@@ -550,7 +550,7 @@ html {
     background:#FEE9EF;
   }
   
-  .main-container__bad {
+  .main-container__bad_p {
     color: #EA1A4F;
     font-size: 14px;
     font-style: normal;
@@ -559,7 +559,7 @@ html {
     margin: 0;
   }
   
-  .main-container__good {
+  .main-container__good_p{
     color: #122945;
     font-size: 14px;
     font-style: normal;
@@ -582,7 +582,7 @@ html {
     line-height: 140%; 
   }
   
-  .main-container__recognize {
+  .main-container__recognize_p {
     color: #002CFB;
     font-size: 14px;
     font-style: normal;
