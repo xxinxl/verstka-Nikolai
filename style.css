@@ -550,7 +550,7 @@ html {
     background:#FEE9EF;
   }
   
-  .main-container__bad p {
+  .main-container__bad {
     color: #EA1A4F;
     font-size: 14px;
     font-style: normal;
@@ -559,7 +559,7 @@ html {
     margin: 0;
   }
   
-  .main-container__good p {
+  .main-container__good {
     color: #122945;
     font-size: 14px;
     font-style: normal;
@@ -582,7 +582,7 @@ html {
     line-height: 140%; 
   }
   
-  .main-container__recognize p {
+  .main-container__recognize {
     color: #002CFB;
     font-size: 14px;
     font-style: normal;
@@ -591,7 +591,7 @@ html {
     margin: 0;
   }
   
-  .main-container__great p {
+  .main-container__great {
     color: #28A879;
     font-size: 14px;
     font-style: normal;
